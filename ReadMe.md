@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <a href="https://twitter.com/lalutoww1" target="blank"><img src="https://img.shields.io/twitter/follow/lalutoww1?logo=twitter&style=for-the-badge" alt="lalutoww1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lalutoww" target="blank"><img src="https://img.shields.io/twitter/follow/lalutoww1?logo=twitter&style=for-the-badge" alt="lalutoww1" /></a> </p>
 
 - 🔭 I’m currently working as a: **FrontEnd Freelancer**
 
