@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <a href="https://twitter.com/lalutoww" target="blank"><img src="https://img.shields.io/twitter/follow/lalutoww1?logo=twitter&style=for-the-badge" alt="lalutoww1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lalutoww" target="blank"><img src="https://img.shields.io/twitter/follow/lalutoww?logo=twitter&style=for-the-badge" alt="lalutoww" /></a> </p>
 
 - 🔭 I’m currently working as a: **FrontEnd Freelancer**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lalutoww1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalutoww1" height="30" width="40" /></a>
+<a href="https://twitter.com/lalutoww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalutoww" height="30" width="40" /></a>
 <a href="https://instagram.com/lalutoww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalutoww" height="30" width="40" /></a>
 <a href="https://discord.gg/Lalutoww#1359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lalutoww#1359" height="30" width="40" /></a>
 </p>
