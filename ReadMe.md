@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **SoftUni's JS Programming Applications.**
 
-- 💬 Ask me about **JavaScript and C# :)**
+- 💬 Ask me about **JavaScript and C#**
 
-- 📫 How to reach me **martinlalutov00@gmail.com**
+- 📫 Reach me on **martinlalutov00@gmail.com**
 
 - ⚡ Fun fact: **Do you know what's an alligator in a vest ? - An investigator**
 
