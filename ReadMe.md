@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as a: **FrontEnd Freelancer**
 
-- 🌱 I’m currently learning **SoftUni's JS Programming Advanced.**
+- 🌱 I’m currently learning **SoftUni's JS Programming Applications.**
 
 - 💬 Ask me about **JavaScript and C# :)**
 
