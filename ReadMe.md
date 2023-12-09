@@ -9,9 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/lalutoww" target="blank"><img src="https://img.shields.io/twitter/follow/lalutoww?logo=twitter&style=for-the-badge" alt="lalutoww" /></a> </p>
 
-- 🔭 I’m currently working as a: **FrontEnd Freelancer**
 
-- 🌱 I’m currently learning **SoftUni's JS Programming Applications.**
+- 🌱 I’m currently learning **SoftUni's JS Frontend Development Course.**
 
 - 💬 Ask me about **JavaScript and C#**
 
