@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **SoftUni's JS Frontend Development Course.**
 
-- 💬 Ask me about **JavaScript and C#**
+- 💬 Ask me about **JavaScript and Java**
 
 - 📫 Reach me on **martinlalutov00@gmail.com**
 
